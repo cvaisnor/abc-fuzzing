@@ -1,8 +1,10 @@
 # Approximate Bayesian Computation As An Informed Fuzzing Technique
 
-Chris Vaisnor
-Johns Hopkins University
-Baltimore, MD
+*Chris Vaisnor*
+
+*Johns Hopkins University*
+
+*Baltimore, MD*
 
 # Abstract
 # Introduction
