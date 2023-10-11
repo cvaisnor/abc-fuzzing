@@ -69,6 +69,9 @@ Goal: Find the input array / pattern that generates a True output value. For bla
 - Alternate Python Library: https://github.com/Pat-Laub/approxbayescomp
 	- Has built in data generating process simulation
 
+- Bayesian Modeling in Python
+    - https://github.com/pymc-devs/pymc
+
 - Book - Artificial Intelligence by Russell and Norvig 
 	- Chapters: 13, 14, 15, 16
 
