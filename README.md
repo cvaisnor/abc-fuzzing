@@ -1,4 +1,4 @@
-# Approximate Bayesian Computation As An Informed Fuzzy Inference System
+# Approximate Bayesian Computation As An Informed Fuzzing-Inference System
 
 - ### Author: Chris Vaisnor
 	- The Johns Hopkins University
@@ -10,7 +10,7 @@ Repository Structure:
 - /archive - old test notebooks
 - /imgs - images for paper
 - main.ipynb - main notebook
-- PDF - paper
+- VAISNOR_CHRIS_745_research_paper.pdf - paper
 
 ![Surface Plot](imgs/prior_surface.png)
 
